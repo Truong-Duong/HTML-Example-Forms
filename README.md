@@ -35,7 +35,7 @@ SOFTWARE.
 
 ## Demonstration
 * Demonstration Image
-![Demo Images](../HTML-Example-Forms/images/Demo.png)
+![Demo Images](images/Demo.png)
 
 ## Improvement
 * We will start with HTML, CSS, JS and upgrade it to ReactJS
